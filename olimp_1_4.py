@@ -13,7 +13,7 @@ manipulator_digits = {0, 4, 8}
 
 result_counter = 0
 
-for _ in range(N):
+for i in range(N):
     number = int(input(f'Номер блока команд: '))
     count = 0
 
